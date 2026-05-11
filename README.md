@@ -1,6 +1,9 @@
 snake echo en c en una hora 
 
-para probar el proyecto 
+para probar el proyecto
+
 mkdir -p ~/snake
-git clone 
+
+git clone https://github.com/hera-ux/snake.git
+
 make
